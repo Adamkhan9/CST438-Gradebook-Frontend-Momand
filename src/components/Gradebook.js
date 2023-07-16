@@ -132,8 +132,8 @@ class Gradebook extends React.Component {
             <div className="App">
               <Grid container>
                 <Grid item align="left">
-                   <h4>Assignment: {assignment.assignmentName}</h4>
-                   <h4>Course: {assignment.courseTitle}</h4>                   
+                  <h4>Assignment: {assignment.assignmentName}</h4>
+                  <h4>Course: {assignment.courseTitle}</h4>               
                 </Grid>
               </Grid>
               <div style={{width:'100%'}}>
